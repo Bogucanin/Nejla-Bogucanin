@@ -1,0 +1,35 @@
+.sticky {
+    background-color: purple;
+    height: 100px;
+    width: 500px;
+    margin-right: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.relative {
+    margin-left: ;
+    background-color: royalblue;
+    padding: 50px;
+    width: 500px;
+    height: 1000px;
+    position: relative;
+    left: 900px;
+    border: solid;
+
+}
+.absolute {
+     background-color: red;
+     height: 200px;
+     width: 200px;
+     position: absolute;
+    border-radius: 50%;
+    padding: 50px;
+}
+
+.fixed {
+    margin-right: 10px;
+    background-color: orange;
+    height: 500px;
+    width: 100px;
+}
